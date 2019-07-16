@@ -1,0 +1,95 @@
+Yesterday (Wed, Jul 10th)
+-----------------------------------------------------------------
+              Hours coded :                                    0
+      Lines of code added :                                    0
+    Lines of code deleted :                                    0
+         Characters added :                                    0
+       Characters deleted :                                    0
+         Total keystrokes :                                    0
+                      KPM :                                    0
+               Live share :                                0 min
+
+Last week (Sun, Jun 30th - Sat, Jul 6th)
+-----------------------------------------------------------------
+              Hours coded :                                 9.17
+      Lines of code added :                                1,697
+    Lines of code deleted :                                  349
+         Characters added :                                8,608
+       Characters deleted :                                1,159
+         Total keystrokes :                               10,359
+                      KPM :                                18.83
+               Live share :                                0 min
+             Top language :                             markdown
+
+  📂 Weekly top projects
+  --------------------------------------------------------------
+Data-Structures-and-Algorithms : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 5.1 hrs
+               playground : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 4.1 hrs
+        UntitledWorkspace : ▮▮ 13 min
+data-structures-and-algorithms : ▮ 5 min
+
+  🔥 Weekly code time heatmap
+  --------------------------------------------------------------
+      12a 1a 2a 3a 4a 5a 6a 7a 8a 9a 10a 11a 12p 1p 2p 3p 4p 5p 6p 7p 8p 9p 10p 11p 
+  Sun ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ 
+  Mon ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ 
+  Tue ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ 🔵 🔵 🔵 🔵 🔵 ⚪ 🔵 🔵 🔵 🔵 🔵 
+  Wed 🔵 ⚪ ⚪ ⚪ ⚪ 🔵 🔵 🔵 🔵 ⚪ 🔵 ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ 
+  Thu ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ 
+  Fri ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ 
+  Sat ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ 
+
+90-day avg by day of week
+-----------------------------------------------------------------
+                   Sunday : ▮▮ 4 min
+                   Monday : ▮▮▮▮▮▮▮▮▮▮▮▮▮ 52 min
+                  Tuesday : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 1.6 hrs
+                Wednesday : ▮▮▮▮▮▮▮▮▮▮ 41 min
+                 Thursday : ▮▮▮▮▮▮▮▮▮▮ 38 min
+                   Friday : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 54 min
+                 Saturday : ▮▮▮▮▮▮▮▮▮▮▮▮ 46 min
+
+All-time (May 21st, 2019 - Jul 11th, 2019)
+-----------------------------------------------------------------
+              Hours coded :                                46.37
+      Lines of code added :                                4,752
+    Lines of code deleted :                                1,573
+         Characters added :                               23,445
+       Characters deleted :                                4,588
+         Total keystrokes :                               29,413
+                      KPM :                                10.57
+               Live share :                                0 min
+             Top language :                               python
+
+🐲 Your weekly language rankings
+-----------------------------------------------------------------
+                 markdown : ▮▮▮▮▮▮▮▮▮▮▮▮▮ 55.4%
+                   python : ▮▮▮▮▮▮▮▮▮ 38.2%
+       code-runner-output : ▮ 3.2%
+                plaintext : ▮ 2.2%
+                    other : ▮ (2 totaling 1.1%)
+
+🐲 Global weekly language rankings
+-----------------------------------------------------------------
+               JavaScript : ▮▮▮▮▮▮ 24.6%
+               TypeScript : ▮▮ 9.7%
+                      PHP : ▮▮ 8.0%
+                     HTML : ▮▮ 6.9%
+                      vue : ▮▮ 5.0%
+                   Python : ▮▮ 4.8%
+          typescriptreact : ▮ 3.7%
+          javascriptreact : ▮ 3.6%
+                     SCSS : ▮ 3.2%
+                plaintext : ▮ 2.5%
+                      CSS : ▮ 2.3%
+                   CSharp : ▮ 2.1%
+                     JSON : ▮ 2.0%
+                     JAVA : ▮ 1.7%
+                     Dart : ▮ 1.5%
+                 Markdown : ▮ 1.3%
+                    jsonc : ▮ 1.3%
+                       Go : ▮ 1.1%
+                      cpp : ▮ 1.1%
+                    other : ▮▮▮ (417 totaling 13.8%)
+
+
